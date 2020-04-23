@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet      href="./style/style.xsl"       type="text/xsl"       media="screen"?>
+<feed  xmlns="http://www.w3.org/2005/Atom" 
+	xmlns:georss="http://www.georss.org/georss" xmlns:inspire_dls="http://inspire.ec.europa.eu/schemas/inspire_dls/1.0" xml:lang="nl">
+  <title xml:lang="nl">INSPIRE Download service Beschermde gebieden</title>
+  <subtitle xml:lang="nl">Deze Download service is gebaseerd op data van de Rijksdienst voor het Cultureel Erfgoed en bestaat uit datasets voor Rijksmonumenten, Archeologische Monumenten, Stads- en  Dorpsgezichten en Werelderfgoed.</subtitle>
+  <link href="http://www.nationaalgeoregister.nl/geonetwork/srv/nl/csw?Service=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;id=ef2a7962-8bb4-483f-ac78-851b619f357f&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full"  rel="describedby" type="application/vnd.iso.19139+xml" />
+  <link href="nl.xml" rel="self" type="application/atom+xml" hreflang="nl" title="Dit document" />
+  <link rel="search" href="https://www.nationaalgeoregister.nl/geonetwork/opensearch/dut/ef2a7962-8bb4-483f-ac78-851b619f357f/OpenSearchDescription.xml" type="application/opensearchdescription+xml" title="Open Search document voor INSPIRE Download service Beschermde gebieden" />
+  <id>nl.xml</id>
+  <rights>Geen beperking</rights>
+  <updated>2012-06-25T10:45:03Z</updated>
+  <author>
+    <name>Infodesk Rijksdienst voor het Cultureel Erfgoed</name>
+    <email>info@cultureelerfgoed.nl</email>
+  </author>
+  
+  <entry>
+    <title xml:lang="nl">Stads- en Dorpsgezichten</title>
+	<inspire_dls:spatial_dataset_identifier_code>e39bd6e0-7651-11e0-a1f0-0800200c9a62</inspire_dls:spatial_dataset_identifier_code>
+	<inspire_dls:spatial_dataset_identifier_namespace>http://www.cultureelerfgoed.nl</inspire_dls:spatial_dataset_identifier_namespace>
+	<link href="http://www.nationaalgeoregister.nl/geonetwork/srv/nl/csw?Service=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;id=4e2ef670-cddd-11dd-ad8b-0800200c9a66&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full"
+  rel="describedby" type="application/xml" />
+	<link rel="alternate" href="data/Stads_en_Dorpsgezichten_nl.xml" type="application/atom+xml" hreflang="nl" title="Feed bevattende de Stads- en Dorpsgezichten dataset" />
+	<link rel="alternate" href="data/Stads_en_Dorpsgezichten_nl.xml" type="text/html" hreflang="nl" title="Feed bevattende de Stads- en Dorpsgezichten dataset" />
+    <id>data/Stads_en_Dorpsgezichten_nl.xml</id>
+    <rights>Geen beperking</rights>
+    <updated>2012-06-25T10:45:03</updated>
+    <summary>
+Deze dataset bevat de begrenzingen van alle gebieden waarvoor de procedure is gestart om het gebied aan te wijzen als rijksbeschermd stads- of dorpsgezicht (ex artikel 35 van de Monumentenwet 1988).    
+</summary>
+    <georss:polygon>50.74 3.25 53.48 3.25 53.48 7.22 50.74 7.22 50.74 3.25</georss:polygon>
+    <category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New" />
+    <category term="http://www.opengis.net/def/crs/EPSG/0/4258" label="ETRS89" />
+  </entry>
+  <entry>
+    <title xml:lang="nl">Unesco Werelderfgoed</title>
+		<inspire_dls:spatial_dataset_identifier_code>f7d22d90-7651-11e0-a1f0-0800200c9a63</inspire_dls:spatial_dataset_identifier_code>
+	<inspire_dls:spatial_dataset_identifier_namespace>http://www.cultureelerfgoed.nl</inspire_dls:spatial_dataset_identifier_namespace>
+     <link href="http://www.nationaalgeoregister.nl/geonetwork/srv/nl/csw?Service=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;id=88a3c1ae-902e-4efa-8663-ddd836101929&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full"
+  rel="describedby" type="application/xml" />
+	<link rel="alternate" href="data/Unesco_Werelderfgoed_nl.xml" type="application/atom+xml" hreflang="nl" title="Feed bevattende de Unesco Werelderfgoed dataset" />
+	<link rel="alternate" href="data/Unesco_Werelderfgoed_nl.xml" type="text/html" hreflang="nl" title="Feed bevattende de Unesco Werelderfgoed dataset" />
+    <id>data/Unesco_Werelderfgoed_nl.xml</id>
+    <rights>Geen beperking</rights>
+    <updated>2012-06-25T10:45:03</updated>
+    <summary>
+Deze dataset bevat de begrenzingen van het Nederlandse cultureel erfgoed dat vanwege haar uitzonderlijke universele waarde door het Werelderfgoed comite van UNESCO is geplaatst op de Werelderfgoedlijst.
+De begrenzingen zijn gebaseerd op de kaarten die destijds opgenomen waren in het nominatiedossier.
+    </summary>
+    <georss:polygon>50.74 3.25 53.48 3.25 53.48 7.22 50.74 7.22 50.74 3.25</georss:polygon>
+    <category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New" />
+    <category term="http://www.opengis.net/def/crs/EPSG/0/4258" label="ETRS89" />
+  </entry>
+
+  <entry>
+    <title xml:lang="nl">Archeologische Monumenten</title>
+			<inspire_dls:spatial_dataset_identifier_code>dd7d8650-7651-11e0-a1f0-0800200c9a61</inspire_dls:spatial_dataset_identifier_code>
+	<inspire_dls:spatial_dataset_identifier_namespace>http://www.cultureelerfgoed.nl</inspire_dls:spatial_dataset_identifier_namespace>
+	<link href="http://www.nationaalgeoregister.nl/geonetwork/srv/nl/csw?Service=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;id=dfe5b146-354f-4bc7-99b1-6713817afac9&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full"
+  rel="describedby" type="application/xml" />
+    <link rel="alternate" href="data/Archeologische_Monumenten_nl.xml" 
+	type="application/atom+xml" hreflang="nl" title="Feed bevattende de Archeologische Monumenten dataset" />
+    <link rel="alternate" href="data/Archeologische_Monumenten_nl.xml" type="text/html" hreflang="nl" title="Feed bevattende de Archeologische Monumenten dataset" />
+	<id>data/Archeologische_Monumenten_nl.xml</id>
+    <rights>Geen beperking</rights>
+    <updated>2012-06-25T10:45:03</updated>
+    <summary>
+Deze dataset is gebaseerd op de Archeologische Monumenten Kaart (AMK). De AMK is in samenwerking met de verschillende provincies en gemeentelijk archeologen ontwikkeld. De kaart bevat een overzicht van archeologische terreinen in Nederland. De terreinen zijn beoordeeld op de criteria kwaliteit, zeldzaamheid, representativiteit, ensemblewaarde en belevingswaarde. Op grond van deze criteria zijn de terreinen ingedeeld in terreinen met archeologische waarde, hoge archeologische waarde en zeer hoge archeologische waarde. Onder deze laatste categorie vallen ook de wettelijk beschermde monumenten.
+    </summary>
+    <georss:polygon>50.74 3.25 53.48 3.25 53.48 7.22 50.74 7.22 50.74 3.25</georss:polygon>
+    <category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New" />
+    <category term="http://www.opengis.net/def/crs/EPSG/0/4258" label="ETRS89" />
+  </entry>  
+
+  <entry>
+    <title xml:lang="nl">Rijksmonumenten</title>
+	<inspire_dls:spatial_dataset_identifier_code>c76c71c0-764f-11e0-a1f0-0800200c9a60</inspire_dls:spatial_dataset_identifier_code>
+	<inspire_dls:spatial_dataset_identifier_namespace>http://www.cultureelerfgoed.nl</inspire_dls:spatial_dataset_identifier_namespace>
+	<link href="http://www.nationaalgeoregister.nl/geonetwork/srv/nl/csw?Service=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;id=6f84efeb-fc1d-4565-a721-80735ea57dbd&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full"
+  rel="describedby" type="application/xml" />
+    <link rel="alternate" href="data/Rijksmonumenten_nl.xml" 
+	type="application/atom+xml" hreflang="nl" title="Feed bevattende de Rijksmonumenten dataset" />
+    <link rel="alternate" href="data/Rijksmonumenten_nl.xml" type="text/html" hreflang="nl" title="Feed bevattende de Rijksmonumenten dataset" />
+	<id>data/Rijksmonumenten_nl.xml</id>
+    <rights>Geen beperking</rights>
+    <updated>2012-03-25T10:45:03</updated>
+    <summary>
+De gegevens in deze dataset zijn ontleend aan het Rijksmonumentenregister zoals beheerd door de Rijksdienst voor het Cultureel Erfgoed en fysiek opgenomen in de Objecten Databank (ODB). 
+In de dataset zijn uitsluitend ingeschreven rijksmonumenten opgenomen (ex artikel 6 Monumentenwet 1988). Formeel gesproken bevat de dataset vervaardigde zaken waarop de Monumentenwet 1988 onherroepelijk van toepassing is. 
+</summary>
+    <georss:polygon>50.74 3.25 53.48 3.25 53.48 7.22 50.74 7.22 50.74 3.25</georss:polygon>
+    <category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New" />
+    <category term="http://www.opengis.net/def/crs/EPSG/0/4258" label="ETRS89" />
+ </entry>  
+  
+</feed>
+

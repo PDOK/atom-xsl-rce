@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet      href="/style/style.xsl"       type="text/xsl"       media="screen"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+	xmlns:georss="http://www.georss.org/georss" xml:lang="nl">
+  <!-- feed title -->
+  <title xml:lang="nl">Download Service voor Unesco Werelderfgoed</title>
+  <!-- feed subtitle -->
+  <subtitle xml:lang="nl">INSPIRE Download Service, op data van de Rijksdienst
+  voor het Cultureel Erfgoed en bestaat uit de dataset Unesco Werelderfgoed.
+</subtitle>
+ 
+  <link href="http://inspire-registry.jrc.ec.europa.eu/registers/FCD/items/158" rel="describedby" type="text/html" />
+  <link href="/data/Unesco_Werelderfgoed_nl.xml" rel="self" type="application/atom+xml" hreflang="nl" title="This document"/>
+  <link href="../nl.xml" rel="up" type="application/atom+xml" hreflang="nl" title="Het service feed document" />
+  <id>/data/Unesco_Werelderfgoed_nl.xml</id>
+  <rights>Geen beperking</rights>
+  <updated>2020-04-22T21:00:06</updated>
+  <author>
+    <name>Infodesk Rijksdienst voor het Cultureel Erfgoed</name>
+    <email>info@cultureelerfgoed.nl</email>
+  </author>
+  <entry>
+    <title xml:lang="nl">Unesco Werelderfgoed in CRS EPSG:28992 (ShapeFile)</title>
+    <link rel="alternate" href="http://services.rce.geovoorziening.nl/www/download/data/Unesco_Werelderfgoed_28992.zip"    type="application/x-shapefile" hreflang="nl" length="673827"    title="Unesco Werelderfgoed data als shapefile in het Rijksdriehoek stelsel(http://www.opengis.net/def/crs/EPSG/0/28992)" />
+	<link rel="enclosure" href="http://services.rce.geovoorziening.nl/www/download/data/Unesco_Werelderfgoed_28992.zip"    type="application/x-shapefile" hreflang="nl" length="673827"    title="Unesco Werelderfgoed data als shapefile in het Rijksdriehoek stelsel(http://www.opengis.net/def/crs/EPSG/0/28992)" />
+    <id>http://services.rce.geovoorziening.nl/www/download/data/Unesco_Werelderfgoed_28992.zip</id>
+    <updated>2020-04-22T21:00:06</updated>
+    <category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New" />
+  </entry>
+    <entry>
+    <title xml:lang="nl">Unesco Werelderfgoed in CRS EPSG:28992 (GML)</title>
+    <link rel="alternate" href="http://services.rce.geovoorziening.nl/www/download/data/Unesco_Werelderfgoed_28992_gml.zip"    type="application/x-gmz" hreflang="nl" length="1170422"    title="Unesco Werelderfgoed data als GML in het Rijksdriehoek stelsel(http://www.opengis.net/def/crs/EPSG/0/28992)" />
+	<link rel="enclosure" href="http://services.rce.geovoorziening.nl/www/download/data/Unesco_Werelderfgoed_28992_gml.zip"    type="application/x-gmz" hreflang="nl" length="1170422"    title="Unesco Werelderfgoed data als GML in het Rijksdriehoek stelsel(http://www.opengis.net/def/crs/EPSG/0/28992)" />
+    <id>http://services.rce.geovoorziening.nl/www/download/data/Unesco_Werelderfgoed_28992.gml</id>
+<summary>Let op! Het openen van een groot GML bestand in een Internet browser kan problemen geven. Open het GML bestand daarom niet maar sla het op. Open dat bestand vervolgens met de gewenste applicatie.</summary>
+    <updated>2020-04-22T21:00:06</updated>
+    <category term="http://www.opengis.net/def/crs/EPSG/0/28992" label="Amersfoort / RD New" />
+  </entry>
+  <entry>
+    <title xml:lang="nl">Unesco Werelderfgoed in CRS EPSG:4258 (ShapeFile)</title>
+    <link rel="alternate" href="http://services.rce.geovoorziening.nl/www/download/data/Unesco_Werelderfgoed_4258.zip"    type="application/x-shapefile" hreflang="nl" length="878227"    title="Unesco Werelderfgoed data als shapefile in ETRS89(http://www.opengis.net/def/crs/EPSG/0/4258)" />
+	<link rel="enclosure" href="http://services.rce.geovoorziening.nl/www/download/data/Unesco_Werelderfgoed_4258.zip"    type="application/x-shapefile" hreflang="nl" length="878227"    title="Unesco Werelderfgoed data als shapefile in ETRS89(http://www.opengis.net/def/crs/EPSG/0/4258)" />
+    <id>http://services.rce.geovoorziening.nl/www/download/data/Unesco_Werelderfgoed_4258.zip</id>
+    <updated>2020-04-22T21:00:06</updated>
+    <category term="http://www.opengis.net/def/crs/EPSG/0/4258" label="ETRS89" />
+  </entry>
+    <entry>
+    <title xml:lang="nl">Unesco Werelderfgoed in CRS EPSG:4258 (GML)</title>
+    <link rel="alternate" href="http://services.rce.geovoorziening.nl/www/download/data/Unesco_Werelderfgoed_4258_gml.zip"    type="application/x-gmz" hreflang="nl" length="1111253"    title="Unesco Werelderfgoed data als GML in ETRS89(http://www.opengis.net/def/crs/EPSG/0/4258)" />
+	<link rel="enclosure" href="http://services.rce.geovoorziening.nl/www/download/data/Unesco_Werelderfgoed_4258_gml.zip"    type="application/x-gmz" hreflang="nl" length="1111253"    title="Unesco Werelderfgoed data als GML in ETRS89(http://www.opengis.net/def/crs/EPSG/0/4258)" />
+    <id>http://services.rce.geovoorziening.nl/www/download/data/Unesco_Werelderfgoed_4258.gml</id>
+<summary>Let op! Het openen van een groot GML bestand in een Internet browser kan problemen geven. Open het GML bestand daarom niet maar sla het op. Open dat bestand vervolgens met de gewenste applicatie.</summary>
+    <updated>2020-04-22T21:00:06</updated>
+    <category term="http://www.opengis.net/def/crs/EPSG/0/4258" label="ETRS89" />
+  </entry>
+  
+</feed>
