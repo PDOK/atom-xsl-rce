@@ -21,8 +21,8 @@
 	<inspire_dls:spatial_dataset_identifier_namespace>http://www.cultureelerfgoed.nl</inspire_dls:spatial_dataset_identifier_namespace>
 	<link href="http://www.nationaalgeoregister.nl/geonetwork/srv/nl/csw?Service=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;id=4e2ef670-cddd-11dd-ad8b-0800200c9a66&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full"
   rel="describedby" type="application/xml" />
-	<link rel="alternate" href="data/Stads_en_Dorpsgezichten_nl.xml" type="application/atom+xml" hreflang="nl" title="Feed bevattende de Stads- en Dorpsgezichten dataset" />
-	<link rel="alternate" href="data/Stads_en_Dorpsgezichten_nl.xml" type="text/html" hreflang="nl" title="Feed bevattende de Stads- en Dorpsgezichten dataset" />
+	<link rel="alternate" href="Stads_en_Dorpsgezichten_nl.xml" type="application/atom+xml" hreflang="nl" title="Feed bevattende de Stads- en Dorpsgezichten dataset" />
+	<link rel="alternate" href="Stads_en_Dorpsgezichten_nl.xml" type="text/html" hreflang="nl" title="Feed bevattende de Stads- en Dorpsgezichten dataset" />
     <id>data/Stads_en_Dorpsgezichten_nl.xml</id>
     <rights>Geen beperking</rights>
     <updated>2012-06-25T10:45:03</updated>
@@ -39,8 +39,8 @@ Deze dataset bevat de begrenzingen van alle gebieden waarvoor de procedure is ge
 	<inspire_dls:spatial_dataset_identifier_namespace>http://www.cultureelerfgoed.nl</inspire_dls:spatial_dataset_identifier_namespace>
      <link href="http://www.nationaalgeoregister.nl/geonetwork/srv/nl/csw?Service=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;id=88a3c1ae-902e-4efa-8663-ddd836101929&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full"
   rel="describedby" type="application/xml" />
-	<link rel="alternate" href="data/Unesco_Werelderfgoed_nl.xml" type="application/atom+xml" hreflang="nl" title="Feed bevattende de Unesco Werelderfgoed dataset" />
-	<link rel="alternate" href="data/Unesco_Werelderfgoed_nl.xml" type="text/html" hreflang="nl" title="Feed bevattende de Unesco Werelderfgoed dataset" />
+	<link rel="alternate" href="Unesco_Werelderfgoed_nl.xml" type="application/atom+xml" hreflang="nl" title="Feed bevattende de Unesco Werelderfgoed dataset" />
+	<link rel="alternate" href="Unesco_Werelderfgoed_nl.xml" type="text/html" hreflang="nl" title="Feed bevattende de Unesco Werelderfgoed dataset" />
     <id>data/Unesco_Werelderfgoed_nl.xml</id>
     <rights>Geen beperking</rights>
     <updated>2012-06-25T10:45:03</updated>
@@ -59,9 +59,9 @@ De begrenzingen zijn gebaseerd op de kaarten die destijds opgenomen waren in het
 	<inspire_dls:spatial_dataset_identifier_namespace>http://www.cultureelerfgoed.nl</inspire_dls:spatial_dataset_identifier_namespace>
 	<link href="http://www.nationaalgeoregister.nl/geonetwork/srv/nl/csw?Service=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;id=dfe5b146-354f-4bc7-99b1-6713817afac9&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full"
   rel="describedby" type="application/xml" />
-    <link rel="alternate" href="data/Archeologische_Monumenten_nl.xml" 
+    <link rel="alternate" href="Archeologische_Monumenten_nl.xml" 
 	type="application/atom+xml" hreflang="nl" title="Feed bevattende de Archeologische Monumenten dataset" />
-    <link rel="alternate" href="data/Archeologische_Monumenten_nl.xml" type="text/html" hreflang="nl" title="Feed bevattende de Archeologische Monumenten dataset" />
+    <link rel="alternate" href="Archeologische_Monumenten_nl.xml" type="text/html" hreflang="nl" title="Feed bevattende de Archeologische Monumenten dataset" />
 	<id>data/Archeologische_Monumenten_nl.xml</id>
     <rights>Geen beperking</rights>
     <updated>2012-06-25T10:45:03</updated>
@@ -79,9 +79,9 @@ Deze dataset is gebaseerd op de Archeologische Monumenten Kaart (AMK). De AMK is
 	<inspire_dls:spatial_dataset_identifier_namespace>http://www.cultureelerfgoed.nl</inspire_dls:spatial_dataset_identifier_namespace>
 	<link href="http://www.nationaalgeoregister.nl/geonetwork/srv/nl/csw?Service=CSW&amp;Request=GetRecordById&amp;Version=2.0.2&amp;id=6f84efeb-fc1d-4565-a721-80735ea57dbd&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;elementSetName=full"
   rel="describedby" type="application/xml" />
-    <link rel="alternate" href="data/Rijksmonumenten_nl.xml" 
+    <link rel="alternate" href="Rijksmonumenten_nl.xml" 
 	type="application/atom+xml" hreflang="nl" title="Feed bevattende de Rijksmonumenten dataset" />
-    <link rel="alternate" href="data/Rijksmonumenten_nl.xml" type="text/html" hreflang="nl" title="Feed bevattende de Rijksmonumenten dataset" />
+    <link rel="alternate" href="Rijksmonumenten_nl.xml" type="text/html" hreflang="nl" title="Feed bevattende de Rijksmonumenten dataset" />
 	<id>data/Rijksmonumenten_nl.xml</id>
     <rights>Geen beperking</rights>
     <updated>2012-03-25T10:45:03</updated>

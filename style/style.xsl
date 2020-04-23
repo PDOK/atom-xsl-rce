@@ -18,9 +18,9 @@
 			<title>
 				<xsl:value-of select="atom:feed/atom:title" />
 			</title>
-			<link rel="stylesheet" type="text/css" href="/assets/deps.css" />
-			<link rel="stylesheet" type="text/css" href="/style/style.css" />
-			<script src="/assets/deps.js"/>
+			<link rel="stylesheet" type="text/css" href="./assets/deps.css" />
+			<link rel="stylesheet" type="text/css" href="./style/style.css" />
+			<script src="./assets/deps.js"/>
 		</head>
 		
 
@@ -122,7 +122,7 @@
 					<xsl:with-param name="isParent" select="$isParent"></xsl:with-param> 
 				</xsl:apply-templates>
 			</div>
-			<script src="/style/script.js"></script>
+			<script src="./style/script.js"></script>
 		</body>
 		
 		</html>

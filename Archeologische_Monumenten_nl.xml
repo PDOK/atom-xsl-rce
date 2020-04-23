@@ -9,8 +9,8 @@
   voor het Cultureel Erfgoed en bestaat uit de dataset Archeologische Monumenten.
 </subtitle>
     <link href="http://inspire-registry.jrc.ec.europa.eu/registers/FCD/items/158" rel="describedby" type="text/html" />
-  <link href="/data/Archeologische_Monumenten_nl.xml" rel="self" type="application/atom+xml" hreflang="nl" title="This document"/>
-  <link href="../nl.xml" rel="up" type="application/atom+xml" hreflang="nl" title="Het service feed document" />
+  <link href="Archeologische_Monumenten_nl.xml" rel="self" type="application/atom+xml" hreflang="nl" title="This document"/>
+  <link href="nl.xml" rel="up" type="application/atom+xml" hreflang="nl" title="Het service feed document" />
   <id>/data/Archeologische_Monumenten_nl.xml</id>
   <rights>Geen beperking</rights>
   <updated>2020-03-17T21:00:25</updated>
