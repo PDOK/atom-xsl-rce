@@ -198,7 +198,7 @@
 				<xsl:choose>
 								<xsl:when test="$isParent='false'">
 									<xsl:if test="atom:link">
-					<a href="{atom:link/@href}" class="download btn btn-default" title="{atom:link/@title}" download>DOWNLOAD</a>
+					<a href="{atom:link/@href}" class="download btn btn-default" title="{atom:link/@title}" download="true">DOWNLOAD</a>
 				</xsl:if>
 								</xsl:when>
 							</xsl:choose>
